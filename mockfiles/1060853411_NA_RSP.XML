@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>8406</additionalNumber
+><buildingNumber
+>2940</buildingNumber
+><city
+>DAMMAM</city
+><district
+>Al Nakhil Dist.</district
+><locationCoordinates
+>50.09103898 26.44074169</locationCoordinates
+><postCode
+>32244</postCode
+><streetName
+>Malik Bin  Awf</streetName
+><unitNumber
+>9898</unitNumber
+></addressListList
+><logId
+>926319042</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

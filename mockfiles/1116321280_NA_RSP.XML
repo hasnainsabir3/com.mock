@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>8200</additionalNumber
+><buildingNumber
+>3243</buildingNumber
+><city
+>AL MAJARDAH</city
+><district
+>Al Faisaliyah Dist.</district
+><locationCoordinates
+>41.93194009 19.09725723</locationCoordinates
+><postCode
+>63973</postCode
+><streetName
+></streetName
+><unitNumber
+>1</unitNumber
+></addressListList
+><logId
+>926172750</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

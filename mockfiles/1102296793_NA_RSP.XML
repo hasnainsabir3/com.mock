@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>8893</additionalNumber
+><buildingNumber
+>3966</buildingNumber
+><city
+>YANBU</city
+><district
+>Al Sumayri Dist.</district
+><locationCoordinates
+>38.05859090 24.10213752</locationCoordinates
+><postCode
+>46424</postCode
+><streetName
+>No name 0</streetName
+><unitNumber
+>5436</unitNumber
+></addressListList
+><logId
+>926476222</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

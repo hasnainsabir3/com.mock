@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>4079</additionalNumber
+><buildingNumber
+>7899</buildingNumber
+><city
+>UNAYZAH</city
+><district
+>King Khalid Dist.</district
+><locationCoordinates
+>44.04806557 26.08514490</locationCoordinates
+><postCode
+>56464</postCode
+><streetName
+></streetName
+><unitNumber
+>1</unitNumber
+></addressListList
+><logId
+>926515664</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

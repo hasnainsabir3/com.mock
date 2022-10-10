@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>6964</additionalNumber
+><buildingNumber
+>2477</buildingNumber
+><city
+>AL MADINAH AL MUNAWWARAH</city
+><district
+>Al Barakah Dist.</district
+><locationCoordinates
+>39.57249295 24.52134318</locationCoordinates
+><postCode
+>42333</postCode
+><streetName
+>Ibn Waddah</streetName
+><unitNumber
+>114</unitNumber
+></addressListList
+><addressListList
+><additionalNumber
+>3909</additionalNumber
+><buildingNumber
+>6598</buildingNumber
+><city
+>AL MADINAH AL MUNAWWARAH</city
+><district
+>Al Jamiah Dist.</district
+><locationCoordinates
+>39.5680816110001 24.4726038005001</locationCoordinates
+><postCode
+>42351</postCode
+><streetName
+>ziyad al basari</streetName
+><unitNumber
+>1205</unitNumber
+></addressListList
+><logId
+>926184477</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

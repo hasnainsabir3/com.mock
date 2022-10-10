@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>2974</additionalNumber
+><buildingNumber
+>7078</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Yamamah Dist.</district
+><locationCoordinates
+>46.71266512 24.59492877</locationCoordinates
+><postCode
+>12674</postCode
+><streetName
+>Nafie Al Ansari</streetName
+><unitNumber
+>9</unitNumber
+></addressListList
+><logId
+>926166616</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

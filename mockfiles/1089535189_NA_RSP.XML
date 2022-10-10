@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>2774</additionalNumber
+><buildingNumber
+>7914</buildingNumber
+><city
+>AD DIR&apos;IYAH</city
+><district
+>Al Diriyah Al Jadidah Dist.</district
+><locationCoordinates
+>46.54011527 24.75482383</locationCoordinates
+><postCode
+>13732</postCode
+><streetName
+>Khalifa Bin Badae</streetName
+><unitNumber
+>514</unitNumber
+></addressListList
+><logId
+>926487320</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

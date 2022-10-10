@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>7299</additionalNumber
+><buildingNumber
+>3389</buildingNumber
+><city
+>AL MUKHWAH</city
+><district
+></district
+><locationCoordinates
+>41.4236137514996 19.8010419251664</locationCoordinates
+><postCode
+>65553</postCode
+><streetName
+>-</streetName
+><unitNumber
+>11</unitNumber
+></addressListList
+><logId
+>926164759</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>6348</additionalNumber
+><buildingNumber
+>4602</buildingNumber
+><city
+>RIYADH</city
+><district
+>West Oraija Dist.</district
+><locationCoordinates
+>46.58672431 24.58701016</locationCoordinates
+><postCode
+>14913</postCode
+><streetName
+>Ahmad Bin  Hashim</streetName
+><unitNumber
+>1</unitNumber
+></addressListList
+><logId
+>926511948</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

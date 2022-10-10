@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>7551</additionalNumber
+><buildingNumber
+>2767</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Mursalat Dist.</district
+><locationCoordinates
+>46.68420969 24.75075319</locationCoordinates
+><postCode
+>12463</postCode
+><streetName
+>Umm Al Hajar</streetName
+><unitNumber
+>13</unitNumber
+></addressListList
+><logId
+>926249870</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

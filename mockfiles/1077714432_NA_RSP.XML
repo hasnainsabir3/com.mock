@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>7261</additionalNumber
+><buildingNumber
+>4610</buildingNumber
+><city
+>RIYADH</city
+><district
+>Dhahrat Laban Dist.</district
+><locationCoordinates
+>46.55733179 24.65548823</locationCoordinates
+><postCode
+>13751</postCode
+><streetName
+>Wabir</streetName
+><unitNumber
+>2</unitNumber
+></addressListList
+><addressListList
+><additionalNumber
+>8432</additionalNumber
+><buildingNumber
+>3743</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Suwaidi Dist.</district
+><locationCoordinates
+>46.67530235 24.59167058</locationCoordinates
+><postCode
+>12793</postCode
+><streetName
+>As Suwaidi Al Am</streetName
+><unitNumber
+>1</unitNumber
+></addressListList
+><logId
+>926509344</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

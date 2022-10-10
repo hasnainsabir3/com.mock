@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>8128</additionalNumber
+><buildingNumber
+>2346</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Malaz Dist.</district
+><locationCoordinates
+>46.7367971517808 24.6587202127411</locationCoordinates
+><postCode
+>12841</postCode
+><streetName
+>Saad Bin  Al Noaman </streetName
+><unitNumber
+>2351</unitNumber
+></addressListList
+><logId
+>926245953</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

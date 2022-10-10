@@ -1,0 +1,29 @@
+{
+    "message": "",
+    "isSuccess": true,
+    "data": {
+        "governmentSector": null,
+        "privateSector": {
+            "employmentStatusInfo": [
+                {
+                    "fullName": "عبدالله يوسف بن سعد العجيمي",
+                    "basicWage": "10000",
+                    "housingAllowance": "2500",
+                    "otherAllowance": "500",
+                    "fullWage": null,
+                    "employerName": "شركة ايجاره للتمويل - مساهمة مقفلة",
+                    "dateOfJoining": "01/01/2020",
+                    "workingMonths": "100",
+                    "employmentStatus": "نشيط",
+                    "salaryStartingDate": "01/01/2022",
+                    "establishmentActivity": "البيع بالجملة والتجزئة للسيارات الخاصة الجديدة ، يشمل ( سيارات الإسعاف والباصات الصغيرة والدفع الرباعي )",
+                    "commercialRegistrationNumber": null,
+                    "legalEntity": null,
+                    "dateOfBirth": null,
+                    "nationality": null,
+                    "gosinumber": null
+                }
+            ]
+        }
+    }
+}

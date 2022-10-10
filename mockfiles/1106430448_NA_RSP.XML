@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>3876</additionalNumber
+><buildingNumber
+>7203</buildingNumber
+><city
+>DAMMAM</city
+><district
+>Dahiyat Al Malik Fahd Dist.</district
+><locationCoordinates
+>49.9778581497378 26.4472206610252</locationCoordinates
+><postCode
+>32515</postCode
+><streetName
+></streetName
+><unitNumber
+>2</unitNumber
+></addressListList
+><logId
+>926296636</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

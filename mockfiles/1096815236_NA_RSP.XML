@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>8232</additionalNumber
+><buildingNumber
+>3132</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Nadheem Dist.</district
+><locationCoordinates
+>46.8868179400714 24.8205162095018</locationCoordinates
+><postCode
+>14814</postCode
+><streetName
+>Al Turath</streetName
+><unitNumber
+>880</unitNumber
+></addressListList
+><logId
+>926658686</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

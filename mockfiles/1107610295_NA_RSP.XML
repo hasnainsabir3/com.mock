@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>3590</additionalNumber
+><buildingNumber
+>7112</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Nafel Dist.</district
+><locationCoordinates
+>46.67575976 24.77979510</locationCoordinates
+><postCode
+>13312</postCode
+><streetName
+>Helal Bin Badr</streetName
+><unitNumber
+>5</unitNumber
+></addressListList
+><logId
+>926411837</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

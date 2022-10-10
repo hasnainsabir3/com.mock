@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>6837</additionalNumber
+><buildingNumber
+>3691</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Nadheem Dist.</district
+><locationCoordinates
+>46.90583197 24.78782047</locationCoordinates
+><postCode
+>14816</postCode
+><streetName
+>Monifa</streetName
+><unitNumber
+>3</unitNumber
+></addressListList
+><logId
+>926531762</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

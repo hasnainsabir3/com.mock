@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>8628</additionalNumber
+><buildingNumber
+>3691</buildingNumber
+><city
+>RIYADH</city
+><district
+>East Naseem Dist.</district
+><locationCoordinates
+>46.8472219232145 24.7369007080442</locationCoordinates
+><postCode
+>14244</postCode
+><streetName
+>Thunayat Al Wadaa </streetName
+><unitNumber
+>8630</unitNumber
+></addressListList
+><addressListList
+><additionalNumber
+>7097</additionalNumber
+><buildingNumber
+>2786</buildingNumber
+><city
+>RIYADH</city
+><district
+>East Naseem Dist.</district
+><locationCoordinates
+>46.82796357 24.74631865</locationCoordinates
+><postCode
+>14241</postCode
+><streetName
+>Abdulmuhsin Ababatain</streetName
+><unitNumber
+>15</unitNumber
+></addressListList
+><logId
+>926518123</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

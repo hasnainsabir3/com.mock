@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>3627</additionalNumber
+><buildingNumber
+>7017</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Fakhiriyah Dist.</district
+><locationCoordinates
+>46.68590995 24.64291891</locationCoordinates
+><postCode
+>12736</postCode
+><streetName
+>Ohod</streetName
+><unitNumber
+>5</unitNumber
+></addressListList
+><logId
+>926090042</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

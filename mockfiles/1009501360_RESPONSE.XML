@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>6583</additionalNumber
+><buildingNumber
+>3203</buildingNumber
+><city
+>AL KHAFJI</city
+><district
+>Al Jawharah Dist.</district
+><locationCoordinates
+>48.48747927 28.42112799</locationCoordinates
+><postCode
+>39254</postCode
+><streetName
+></streetName
+><unitNumber
+>4</unitNumber
+></addressListList
+><logId
+>926144655</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>

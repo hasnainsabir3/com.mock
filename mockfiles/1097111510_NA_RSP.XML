@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><getCitizenAddressInfoResponse
+><CitizenAddressInfoResult
+><addressListList
+><additionalNumber
+>4192</additionalNumber
+><buildingNumber
+>7160</buildingNumber
+><city
+>RIYADH</city
+><district
+>Al Ghannamiyah Dist.</district
+><locationCoordinates
+>46.81501243 24.47896332</locationCoordinates
+><postCode
+>14539</postCode
+><streetName
+>Al Thawbiyah </streetName
+><unitNumber
+>1</unitNumber
+></addressListList
+><logId
+>926279988</logId
+></CitizenAddressInfoResult
+></getCitizenAddressInfoResponse
+>
