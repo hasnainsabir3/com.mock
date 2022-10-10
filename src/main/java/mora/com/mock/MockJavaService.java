@@ -44,7 +44,7 @@ public class MockJavaService implements JavaService2{
 		
 		
 		String checkStr = (result.getParamValueByName("PCNMFE") != null)? result.getParamValueByName("SC_SCORE"):"Hasnin";
-			logger.error("checkStr = " + checkStr);
+			logger.error("checkStr test = " + checkStr);
 		
 		
 		
