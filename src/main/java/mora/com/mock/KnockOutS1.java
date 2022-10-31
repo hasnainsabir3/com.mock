@@ -152,7 +152,13 @@ public class KnockOutS1 implements JavaService2 {
 								inOUT);
 
 						if (job.has("knockoutStatus")) {
+							
+							logger.error("HS-knockoutStatus" + job.has("knockoutStatus"));
+							
 							if (job.getString("knockoutStatus").equals("PASS")) {
+								
+								logger.error("HS-knockoutStatus Check" + job.getString("knockoutStatus"));
+								
 //								 checking aml
 								HashMap<String, Object> imapaml = new HashMap();
 								imapaml.put("firstname", firstName);

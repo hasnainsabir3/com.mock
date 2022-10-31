@@ -34,11 +34,6 @@
 			<artifactId>httpclient</artifactId>
 			<version>4.5.13</version>
 		</dependency>
-		<dependency>
-			<groupId>org.apache.httpcomponents</groupId>
-			<artifactId>httpclient</artifactId>
-			<version>4.3.6</version>
-		</dependency>
 
 		<dependency>
 			<groupId>com.kony.dbp</groupId>
@@ -97,6 +92,19 @@
 			<groupId>sax</groupId>
 			<artifactId>sax</artifactId>
 			<version>2.0.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.squareup.okhttp</groupId>
+			<artifactId>okhttp</artifactId>
+			<version>2.5.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.konghq</groupId>
+			<artifactId>unirest-java</artifactId>
+			<version>3.13.11</version>
+			<classifier>standalone</classifier>
 		</dependency>
 
 	</dependencies>
