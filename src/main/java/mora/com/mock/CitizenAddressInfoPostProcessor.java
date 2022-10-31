@@ -11,6 +11,7 @@ import com.konylabs.middleware.controller.DataControllerRequest;
 import com.konylabs.middleware.controller.DataControllerResponse;
 import com.konylabs.middleware.dataobject.JSONToResult;
 import com.konylabs.middleware.dataobject.Result;
+;
 
 public class CitizenAddressInfoPostProcessor implements DataPostProcessor2{
 
